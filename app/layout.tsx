@@ -8,7 +8,6 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Collection Visualizer",
   description: "Explore beautiful collections with smooth navigation",
-  generator: "v0.dev",
 };
 
 export default function RootLayout({
