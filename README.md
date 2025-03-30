@@ -4,7 +4,7 @@ A modern web application built with Next.js and React, featuring a collection of
 
 ## Preview
 
-Below is a grid of preview images showcasing the UI components and features available in the Collection Gallery:
+Below is a grid of preview images showcasing the UI components and features available in the Collection Gallery
 
 <div class="grid grid-cols-2 gap-8">
   <img src="assets/preview1.png" alt="Preview 1" class="w-full h-auto rounded-lg shadow-sm" />
