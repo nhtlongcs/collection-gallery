@@ -2,6 +2,15 @@
 
 A modern web application built with Next.js and React, featuring a collection of components and UI elements for creating beautiful and interactive user interfaces.
 
+## Preview
+
+Below is a grid of preview images showcasing the UI components and features available in the Collection Gallery:
+
+<div class="grid grid-cols-2 gap-8">
+  <img src="assets/preview1.png" alt="Preview 1" class="w-full h-auto rounded-lg shadow-sm" />
+  <img src="assets/preview2.png" alt="Preview 2" class="w-full h-auto rounded-lg shadow-sm" />
+</div>
+
 ## Features
 
 - Built with Next.js 15+ and React 19+
@@ -58,12 +67,13 @@ The application will be available at `http://localhost:3000`
 
 The project uses TypeScript for type safety and modern development practices. All components are built using the latest React patterns and best practices.
 
-### Available Scripts
+## Available Scripts
 
 - `npm install` - Install dependencies
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run start` - Start production server
+
 ## Acknowledgments
 
 The project is based on the v0.dev template.
